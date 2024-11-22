@@ -1,4 +1,5 @@
 #Breast Cancer Prediction Model Building ML Project
+![Uploading image.png…]()
 
 
 # 🩺 Breast Cancer Prediction Model Building ML Projectl 🩺
@@ -33,5 +34,7 @@ Today, I built a **Breast Cancer Prediction Model** using **Python** and **Machi
 - Explore other advanced algorithms like **XGBoost** and **Neural Networks**. 🧠
 
 ## 💬 Contact:
+Email:- abhiydv23096@gmail.com
+github:- https://github.com/abhishekkumar62000
 If you have any questions or suggestions, feel free to reach out! Let's discuss and collaborate. 🤝
 
