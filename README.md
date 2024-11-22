@@ -1,5 +1,6 @@
 #Breast Cancer Prediction Model Building ML Project
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/732dfec3-6c64-43ee-b7ad-6cfe212c2db5)
+
 
 
 # 🩺 Breast Cancer Prediction Model Building ML Projectl 🩺
